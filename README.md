@@ -1,16 +1,12 @@
-<img align="right" src="samBigData.jpg" height="150">
+<img align="center" src="samBigData.jpg" width="450" height="300" alt="Samuel" >
 
 <h1 align="center">Hi 👋, I'm Sam Waweru</h1>
 
 <h3 align="center">A passionate Python and ML developer and a Mechatronics Engineering Undergraduate at JKUAT</h3>
+
 <p align="centre"> Interests :Robotics and AI Research </p>
 
 <p align="left"> <a href="https://github.com
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samkamau81&label=Profile%20views&color=0e75b6&style=flat" alt="samkamau81" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samkamau81" alt="samkamau81" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/samuelw27896183" target="blank"><img src="https://img.shields.io/twitter/follow/samuelw27896183?logo=twitter&style=for-the-badge" alt="samuelw27896183" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

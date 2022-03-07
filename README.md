@@ -7,7 +7,7 @@
   <br>
   <img src="samBigData.jfif" alt="Samuel" width="100%" height="50%">
   <br>
-  <p align="center"> <a href="https://github.com
+
 
   <h3 align="center">Connect with me:</h3>
   <p align="center">

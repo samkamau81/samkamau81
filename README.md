@@ -1,4 +1,4 @@
-<img align="center" src="samBigData.jpg" width="450" height="300" alt="Samuel" >
+<img align="center" src="samBigData.jpg" width="100%" height="300" alt="Samuel" >
 
 <h1 align="center">Hi 👋, I'm Sam Waweru</h1>
 

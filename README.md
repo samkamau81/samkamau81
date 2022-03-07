@@ -1,4 +1,4 @@
-<img align="right" src="https://drive.google.com/file/d/143lUwf4XTCLqMGA5Dnf1LEprqBnpv16p/view?usp=sharing" height="150">
+<img align="right" src="samBigData.jpg" height="150">
 
 <h1 align="center">Hi 👋, I'm Sam Waweru</h1>
 

@@ -1,4 +1,6 @@
+<img align="right" src="http://inews.gtimg.com/newsapp_match/0/10903293331/0" height="150">
 <h1 align="center">Hi 👋, I'm Sam Waweru</h1>
+
 <h3 align="center">A passionate Python and ML developer and a Mechatronics Engineering Undergraduate at JKUAT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samkamau81&label=Profile%20views&color=0e75b6&style=flat" alt="samkamau81" /> </p>

@@ -1,11 +1,11 @@
 
-<img src="samBigData.jpg" alt="Samuel" width="100%" height="50%">
   <h1 align="center">Hi 👋, I'm Sam Waweru</h1>
 
   <h3 align="center">A passionate Python and ML developer and a Mechatronics Engineering Undergraduate at JKUAT</h3>
 
-  <p align="centre"> Interests :Robotics and AI Research </p>
-
+  <h3 align="centre"> Interests :Robotics and AI Research </h3>
+  <br>
+  <img src="samBigData.jfif" alt="Samuel" width="100%" height="50%">
   <p align="left"> <a href="https://github.com
 
   <h3 align="left">Connect with me:</h3>

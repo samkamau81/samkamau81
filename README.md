@@ -1,5 +1,5 @@
 
-<body style="background-image: url('samBigData.jpg');">
+<img src="samBigData.jpg" alt="Samuel" width="100%" height="50%">
   <h1 align="center">Hi 👋, I'm Sam Waweru</h1>
 
   <h3 align="center">A passionate Python and ML developer and a Mechatronics Engineering Undergraduate at JKUAT</h3>

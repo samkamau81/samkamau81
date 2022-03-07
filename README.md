@@ -1,10 +1,5 @@
-<style>
-body {
-  background-image: url('samBigData.jpg');
-}
-</style>
 
-<body>
+<body style="background-image: url('samBigData.jpg');">
   <h1 align="center">Hi 👋, I'm Sam Waweru</h1>
 
   <h3 align="center">A passionate Python and ML developer and a Mechatronics Engineering Undergraduate at JKUAT</h3>

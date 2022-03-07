@@ -1,8 +1,11 @@
-<img align="right" src="http://inews.gtimg.com/newsapp_match/0/10903293331/0" height="150">
+<img align="right" src="https://drive.google.com/file/d/143lUwf4XTCLqMGA5Dnf1LEprqBnpv16p/view?usp=sharing" height="150">
+
 <h1 align="center">Hi 👋, I'm Sam Waweru</h1>
 
 <h3 align="center">A passionate Python and ML developer and a Mechatronics Engineering Undergraduate at JKUAT</h3>
+<p align="centre"> Interests :Robotics and AI Research </p>
 
+<p align="left"> <a href="https://github.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samkamau81&label=Profile%20views&color=0e75b6&style=flat" alt="samkamau81" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samkamau81" alt="samkamau81" /></a> </p>

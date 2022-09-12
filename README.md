@@ -23,7 +23,7 @@
             <img src="TWIGA Hackathon @iLabAfrica By Kevin Ngumu  (59).JPG" alt="img"/>
         </div>
         <div class="slide">
-            <img src="demonslayer github4.jfif" alt="img"/>
+            <img src="demonslayer github4.jpg" alt="img"/>
         </div>
     </div>
   <br>

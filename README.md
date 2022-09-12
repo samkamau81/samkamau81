@@ -1,11 +1,84 @@
-
+   <style>
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+      }
+      .slowFade {
+        display: flex;
+        align-items: flex-start;
+        background: #fff;
+        height: 100vh;
+        overflow: hidden;
+        position: relative;
+      }
+      .slowFade .slide img {
+        position: absolute;
+        min-width: 100%;
+        min-height: 100%;
+        height: auto;
+        background: #000;
+        -webkit-backface-visibility: hidden;
+                backface-visibility: hidden;
+        opacity: 0;
+        transform: scale(1.5) rotate(15deg);
+        -webkit-animation: slowFade 32s infinite;
+                animation: slowFade 32s infinite;
+      }
+      .slowFade .slide:nth-child(3) img {
+        -webkit-animation-delay: 8s;
+                animation-delay: 8s;
+      }
+      .slowFade .slide:nth-child(2) img {
+        -webkit-animation-delay: 16s;
+                animation-delay: 16s;
+      }
+      .slowFade .slide:nth-child(1) img {
+        -webkit-animation-delay: 24s;
+                animation-delay: 24s;
+      }
+      @keyframes slowFade {
+        25% {
+            opacity: 1;
+            transform: scale(1) rotate(0);
+        }
+        40% {
+            opacity: 0;
+        }
+      }
+      @-webkit-keyframes slowFade {
+        25% {
+            opacity: 1;
+            transform: scale(1) rotate(0);
+        }
+        40% {
+            opacity: 0;
+        }
+      }
+   </style>
+  
+  
+  
   <h1 align="center">Hi 👋, I'm Sam Waweru</h1>
 
   <h3 align="center">A passionate Python and ML developer and a Mechatronics Engineering Undergraduate at JKUAT</h3>
 
   <h3 align="center"> Interests : Robotics and AI Research </h3>
   <br>
-  <img src="samBigData.jfif" alt="Samuel" width="100%" height="50%">
+  <div class="slides slowFade">
+        <div class="slide">
+            <img src="samBigData.jpg" alt="img"/>
+        </div>
+        <div class="slide">
+            <img src="demonslayer github3.jfif" alt="img"/>
+        </div>
+        <div class="slide">
+            <img src="TWIGA Hackathon @iLabAfrica By Kevin Ngumu  (59).JPG" alt="img"/>
+        </div>
+        <div class="slide">
+            <img src="demonslayer github4.jfif" alt="img"/>
+        </div>
+    </div>
   <br>
 
 

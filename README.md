@@ -15,17 +15,10 @@
   <br>
   <br>                 
   <div >
-      <img src="samBigData.jpg" width="100" height="100" >
+      <img src="samBigData.jpg" width="100%" height="50%" >
   </div>
   <div>
-      <img src="demonslayer github3.jfif" width="100" height="100" >
-  </div>
-  <div>
-      <img src="Elarian 4.jpg" width="100" height="100" >
-  </div>
-  <div>
-      <img src="demonslayer github4.jpg" width="100" height="100" >
-  </div>
+
   <br>
   <br>
 

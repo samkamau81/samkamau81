@@ -1,30 +1,25 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="https://github.com/samkamau81/samkamau81/blob/master/style.css">
-</head>
-  
-  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head> 
+ 
+<body> 
   <h1 align="center">Hi 👋, I'm Sam Waweru</h1>
 
   <h3 align="center">A passionate Python and ML developer and a Mechatronics Engineering Undergraduate at JKUAT</h3>
 
   <h3 align="center"> Interests : Robotics and AI Research </h3>
+  
   <br>
-
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-  <body>
-
-  <div class="w3-content w3-section" style="max-width:500px">
-    <p>The w3-animate-fading class animates an element in and out (takes about 10 seconds).</p>
+  <div class="w3-content w3-section" style="max-width:500px">   
 
     <img class="mySlides w3-animate-fading" src="samBigData.jpg" style="width:100%">
     <img class="mySlides w3-animate-fading" src="demonslayer github3.jfif" style="width:100%">
     <img class="mySlides w3-animate-fading" src="TWIGA Hackathon @iLabAfrica By Kevin Ngumu  (59).JPG" style="width:100%">
     <img class="mySlides w3-animate-fading" src="demonslayer github4.jpg" style="width:100%">
+    
   </div>
 
   <script>

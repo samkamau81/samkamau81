@@ -14,8 +14,8 @@
   <h3 align="center"> Interests : Robotics and AI Research </h3>
   <br>
   <br>
-  <div class="slides slowFade">
-                
+  
+  <div class="slides slowFade">                
     <div class="slide" >
         <img src="samBigData.jpg" width="100" height="100" >
     </div>
@@ -28,7 +28,6 @@
     <div class="slide">
         <img src="demonslayer github4.jpg" width="100" height="100" >
     </div>
-
 </div>
 
   <br>

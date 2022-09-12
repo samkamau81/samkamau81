@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="https://github.com/samkamau81/samkamau81/blob/master/style.css"> 
+  <link rel="stylesheet" type="text/css" href="style.css"> 
   </head>
  
 <body> 

@@ -14,7 +14,9 @@
   <h3 align="center"> Interests : Robotics and AI Research </h3>
   
   <br>
-  <div class="slides slowFade">
+  <base href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/">
+  <div id="slider">
+    <figure>
           <div class="slide">
               <img src="samBigData.jpg" alt="img"/>
           </div>
@@ -27,6 +29,7 @@
           <div class="slide">
               <img src="demonslayer github4.jpg" alt="img"/>
           </div>
+    </figure>
       </div>
   <br>
 

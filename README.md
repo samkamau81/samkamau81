@@ -11,23 +11,21 @@
   <h3 align="center">A passionate Python and ML developer and a Mechatronics Engineering Undergraduate at JKUAT</h3>
 
   <h3 align="center"> Interests : Robotics and AI Research </h3>
+  
   <br>
-  <br>
-                 
-    <div >
-        <img src="samBigData.jpg" width="100" height="100" >
-    </div>
-    <div>
-        <img src="demonslayer github3.jfif" width="100" height="100" >
-    </div>
-    <div>
-        <img src="Elarian 4.jpg" width="100" height="100" >
-    </div>
-    <div>
-        <img src="demonslayer github4.jpg" width="100" height="100" >
-    </div>
-
-
+  <br>                 
+  <div >
+      <img src="samBigData.jpg" width="100" height="100" >
+  </div>
+  <div>
+      <img src="demonslayer github3.jfif" width="100" height="100" >
+  </div>
+  <div>
+      <img src="Elarian 4.jpg" width="100" height="100" >
+  </div>
+  <div>
+      <img src="demonslayer github4.jpg" width="100" height="100" >
+  </div>
   <br>
   <br>
 

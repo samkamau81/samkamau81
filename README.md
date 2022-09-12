@@ -11,16 +11,14 @@
   <h3 align="center">A passionate Python and ML developer and a Mechatronics Engineering Undergraduate at JKUAT</h3>
 
   <h3 align="center"> Interests : Robotics and AI Research </h3>
-  
-  <br>
+ 
   <br>                 
   <div >
       <img src="samBigData.jpg" width="100%" height="50%" >
   </div>
   <div>
+  <br>
 
-  <br>
-  <br>
 
 
   <h3 align="center">Connect with me:</h3>

@@ -2,66 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-  * {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-.slowFade {
-  display: flex;
-  align-items: flex-start;
-  background: #fff;
-  height: 100vh;
-  overflow: hidden;
-  position: relative;
-}
-.slowFade .slide img {
-  position: absolute;
-  min-width: 100%;
-  min-height: 100%;
-  height: auto;
-  background: #000;
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
-  opacity: 0;
-  transform: scale(1.5) rotate(15deg);
-  -webkit-animation: slowFade 32s infinite;
-          animation: slowFade 32s infinite;
-}
-.slowFade .slide:nth-child(3) img {
-  -webkit-animation-delay: 8s;
-          animation-delay: 8s;
-}
-.slowFade .slide:nth-child(2) img {
-  -webkit-animation-delay: 16s;
-          animation-delay: 16s;
-}
-.slowFade .slide:nth-child(1) img {
-  -webkit-animation-delay: 24s;
-          animation-delay: 24s;
-}
-@keyframes slowFade {
-  25% {
-      opacity: 1;
-      transform: scale(1) rotate(0);
-  }
-  40% {
-      opacity: 0;
-  }
-}
-@-webkit-keyframes slowFade {
-  25% {
-      opacity: 1;
-      transform: scale(1) rotate(0);
-  }
-  40% {
-      opacity: 0;
-  }
-}
-  </style>
-  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
   </head>
  
 <body> 
@@ -72,21 +13,20 @@
   <h3 align="center"> Interests : Robotics and AI Research </h3>
   <br>
   <br>
-  
-  <div class="slides slowFade">                
-    <div class="slide" >
+                 
+    <div >
         <img src="samBigData.jpg" width="100" height="100" >
     </div>
-    <div class="slide">
+    <div>
         <img src="demonslayer github3.jfif" width="100" height="100" >
     </div>
-    <div class="slide">
+    <div>
         <img src="Elarian 4.jpg" width="100" height="100" >
     </div>
-    <div class="slide">
+    <div>
         <img src="demonslayer github4.jpg" width="100" height="100" >
     </div>
-</div>
+
 
   <br>
   <br>

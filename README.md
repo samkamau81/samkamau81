@@ -17,14 +17,18 @@
   <base href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/">
   <div id="slider">
     <figure>
+      <div>
           <img src="samBigData.jpg" alt="img"/>         
-          
+      </div> 
+      <div>   
           <img src="demonslayer github3.jfif" alt="img"/>          
-          
+      </div>  
+      <div>  
           <img src="TWIGA Hackathon @iLabAfrica By Kevin Ngumu  (59).JPG" alt="img"/>
-                    
+      </div>  
+      <div>            
           <img src="demonslayer github4.jpg" alt="img"/>
-          
+      </div>    
     </figure>
     </div>
   <br>

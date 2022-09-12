@@ -12,25 +12,26 @@
   <h3 align="center">A passionate Python and ML developer and a Mechatronics Engineering Undergraduate at JKUAT</h3>
 
   <h3 align="center"> Interests : Robotics and AI Research </h3>
-  
   <br>
-  <base href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/">
-  <div id="slider">
-    <figure>
-      <div>
-          <img src="samBigData.jpg" alt="img"/>         
-      </div> 
-      <div>   
-          <img src="demonslayer github3.jfif" alt="img"/>          
-      </div>  
-      <div>  
-          <img src="TWIGA Hackathon @iLabAfrica By Kevin Ngumu  (59).JPG" alt="img"/>
-      </div>  
-      <div>            
-          <img src="demonslayer github4.jpg" alt="img"/>
-      </div>    
+  <br>
+  <div class="slides slowFade">
+                
+    <figure class="slide" >
+        <img src="samBigData.jpg" width="100" height="100" >
     </figure>
-    </div>
+    <figure class="slide">
+        <img src="demonslayer github3.jfif" width="100" height="100" >
+    </figure>
+    <figure class="slide">
+        <img src="Elarian 4.jpg" width="100" height="100" >
+    </figure>
+    <figure class="slide">
+        <img src="demonslayer github4.jpg" width="100" height="100" >
+    </figure>
+
+</div>
+
+  <br>
   <br>
 
 
@@ -46,3 +47,4 @@
     
 </body>
 </html>
+

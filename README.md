@@ -16,18 +16,18 @@
   <br>
   <div class="slides slowFade">
                 
-    <figure class="slide" >
+    <div class="slide" >
         <img src="samBigData.jpg" width="100" height="100" >
-    </figure>
-    <figure class="slide">
+    </div>
+    <div class="slide">
         <img src="demonslayer github3.jfif" width="100" height="100" >
-    </figure>
-    <figure class="slide">
+    </div>
+    <div class="slide">
         <img src="Elarian 4.jpg" width="100" height="100" >
-    </figure>
-    <figure class="slide">
+    </div>
+    <div class="slide">
         <img src="demonslayer github4.jpg" width="100" height="100" >
-    </figure>
+    </div>
 
 </div>
 

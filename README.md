@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="https://github.com/samkamau81/samkamau81/blob/master/style.css">
-  </head>
+</head>
   
   
   <h1 align="center">Hi 👋, I'm Sam Waweru</h1>
@@ -13,20 +13,37 @@
 
   <h3 align="center"> Interests : Robotics and AI Research </h3>
   <br>
-  <div class="slides slowFade">
-        <div class="slide">
-            <img src="samBigData.jpg" alt="img"/>
-        </div>
-        <div class="slide">
-            <img src="demonslayer github3.jfif" alt="img"/>
-        </div>
-        <div class="slide">
-            <img src="TWIGA Hackathon @iLabAfrica By Kevin Ngumu  (59).JPG" alt="img"/>
-        </div>
-        <div class="slide">
-            <img src="demonslayer github4.jpg" alt="img"/>
-        </div>
-    </div>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <body>
+
+  <div class="w3-content w3-section" style="max-width:500px">
+    <p>The w3-animate-fading class animates an element in and out (takes about 10 seconds).</p>
+
+    <img class="mySlides w3-animate-fading" src="samBigData.jpg" style="width:100%">
+    <img class="mySlides w3-animate-fading" src="demonslayer github3.jfif" style="width:100%">
+    <img class="mySlides w3-animate-fading" src="TWIGA Hackathon @iLabAfrica By Kevin Ngumu  (59).JPG" style="width:100%">
+    <img class="mySlides w3-animate-fading" src="demonslayer github4.jpg" style="width:100%">
+  </div>
+
+  <script>
+  var myIndex = 0;
+  carousel();
+
+  function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 9000);    
+  }
+  </script>
+
   <br>
 
 

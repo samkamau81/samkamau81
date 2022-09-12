@@ -3,33 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    @keyframes slidy {
-    0% { left: 0%; }
-    20% { left: 0%; }
-    25% { left: -100%; }
-    45% { left: -100%; }
-    50% { left: -200%; }
-    70% { left: -200%; }
-    75% { left: -300%; }
-    95% { left: -300%; }
-    100% { left: -400%; }
-    }
-
-    body { margin: 0; } 
-    div#slider { overflow: hidden; }
-    div#slider figure img { width: 20%; float: left; }
-    div#slider figure { 
-      position: relative;
-      width: 500%;
-      margin: 0;
-      left: 0;
-      text-align: left;
-      font-size: 0;
-      animation: 30s slidy infinite; 
-    }
-    
-  </style>
+  <link rel="stylesheet" href="style.css">
   </head>
  
 <body> 
@@ -43,28 +17,23 @@
   <base href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/">
   <div id="slider">
     <figure>
-          <div class="slide">
-              <img src="samBigData.jpg" alt="img"/>
-          </div>
-          <div class="slide">
-              <img src="demonslayer github3.jfif" alt="img"/>
-          </div>
-          <div class="slide">
-              <img src="TWIGA Hackathon @iLabAfrica By Kevin Ngumu  (59).JPG" alt="img"/>
-          </div>
-          <div class="slide">
-              <img src="demonslayer github4.jpg" alt="img"/>
-          </div>
+          <img src="samBigData.jpg" alt="img"/>         
+          
+          <img src="demonslayer github3.jfif" alt="img"/>          
+          
+          <img src="TWIGA Hackathon @iLabAfrica By Kevin Ngumu  (59).JPG" alt="img"/>
+                    
+          <img src="demonslayer github4.jpg" alt="img"/>
+          
     </figure>
-      </div>
+    </div>
   <br>
 
 
   <h3 align="center">Connect with me:</h3>
   <p align="center">
-  <a href="https://twitter.com/samuelw27896183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuelw27896183" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/samuelwaweru01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelwaweru01" height="30" width="40" /></a>
-  <a href="https://instagram.com/_gatoto.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gatoto.s" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/samuelwaweru2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelwaweru01" height="30" width="40" /></a>
+  <a href="https://instagram.com/_gatoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gatoto.s" height="30" width="40" /></a>
   </p>
 
   <h3 align="center">Languages and Tools:</h3>

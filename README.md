@@ -8,7 +8,7 @@
 <body> 
   <h1 align="center">Hi 👋, I'm Sam Waweru</h1>
 
-  <h3 align="center">A passionate Python and ML developer and a Mechatronics Engineering Undergraduate at JKUAT</h3>
+  <h3 align="center">Welcome</h3>
 
   <h3 align="center"> Interests : Robotics and AI Research </h3>
  

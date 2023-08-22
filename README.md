@@ -13,8 +13,7 @@
  
   <br>                 
   <div >
-      <img src="[image](https://github.com/samkamau81/samkamau81/assets/63351043/b8acb4fb-6070-4415-a23c-08aecbcfb620)
-" width="100%" height="50%" >
+      <img src="one_punch_man.jpeg" width="100%" height="50%" >
   </div>
   <div>
   <br>

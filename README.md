@@ -7,8 +7,8 @@
  
 <body> 
   <h1 align="center">Ola👋 </h1>
-  <h2 align="center">Sam here , Welcome </h2>
-  <h3 align="center"> Hobbies : Karate , Anime , Electronics Engineering ,Problem Solver </h3>
+  <h2 align="center">I'm Sam</h2>
+  <h3 align="center"> Hobbies : Karate🐱‍👤, Anime🎭 , Electronic Engineering⚡ , Software Engineering💸 </h3>
   <h3 align="center"> Interests : Software Development , AI Research </h3>
  
   <br>                 

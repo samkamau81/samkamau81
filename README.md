@@ -6,15 +6,15 @@
   </head>
  
 <body> 
-  <h1 align="center">Hi 👋, I'm Sam Waweru</h1>
-
-  <h3 align="center">Welcome</h3>
-
-  <h3 align="center"> Interests : Robotics and AI Research </h3>
+  <h1 align="center">Ola👋 </h1>
+  <h2 align="center">Sam here , Welcome </h2>
+  <h3 align="center"> Hobbies : Karate , Anime , Electronics Engineering ,Problem Solver </h3>
+  <h3 align="center"> Interests : Software Development , AI Research </h3>
  
   <br>                 
   <div >
-      <img src="samBigData.jpg" width="100%" height="50%" >
+      <img src="[image](https://github.com/samkamau81/samkamau81/assets/63351043/b8acb4fb-6070-4415-a23c-08aecbcfb620)
+" width="100%" height="50%" >
   </div>
   <div>
   <br>

@@ -9,7 +9,7 @@
   <h1 align="center">Ola👋 </h1>
   <h2 align="center">I'm Sam</h2>
   <h3 align="center"> Hobbies : Karate🐱‍👤, Literature🎭 , Electronic Engineering⚡ , Software Engineering💸 </h3>
-  <h3 align="center"> Interests : Software Development , AI Research </h3>
+  <h3 align="center"> Interests : Software Development , AI Research , Backend Development </h3>
  
   <br>                 
   <div >

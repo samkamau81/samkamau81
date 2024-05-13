@@ -13,7 +13,7 @@
  
   <br>                 
   <div >
-      <img src="momo.jpg" width="100%" height="50%" >
+      <img src="momo.jpg" width="100%" height="10%" >
   </div>
   <div>
   <br>

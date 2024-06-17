@@ -1,25 +1,12 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  </head>
- 
-<body> 
-  <h1 align="center">Ola👋 </h1>
+
+  <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hey </h1>
   <h2 align="center">I'm Sam</h2>
   <h3 align="center"> Hobbies : Karate🐱‍👤, Literature🎭 </h3>
   <h3 align="center"> Interests : AI Research , Backend Development </h3>
+
+
+
  
-  <br>                 
-  <div >
-      <img src="black_clover.jpg" width="100%" height="100%" >
-  </div>
-  <div>
-  <br>
-
-
-
   <h3 align="center">Connect with me:</h3>
   <p align="center">
   <a href="https://linkedin.com/in/samuelwaweru2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelwaweru01" height="30" width="40" /></a>
@@ -35,6 +22,3 @@
     
 
     
-</body>
-</html>
-

@@ -1,7 +1,7 @@
 
   <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hey </h1>
   <h2 align="center">I'm Sam</h2>
-  <h3 align="center"> Hobbies : Karate🐱‍👤, Literature🎭 </h3>
+  <h3 align="center"> Hobbies : Karate🐱‍👤, Art 🖌, Culture🎭 </h3>
   <h3 align="center"> Interests : AI Research , Backend Development </h3>
 
 

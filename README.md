@@ -14,7 +14,7 @@
   <a href="https://www.kaggle.com/samuelkamau" target="blank"><img align="center" 
     src="https://github.com/samkamau81/samkamau81/blob/master/4373210_kaggle_logo_logos_icon.svg" alt="_gatoto.s" height="30" width="40" /></a>
   <a href="https://x.com/Samuel__Waweru" target="blank"><img align="center" 
-    src="" alt="Samwel_Waweru" height="30" width="40" /></a>
+    src="https://github.com/samkamau81/samkamau81/blob/master/icons8-twitterx-30.svg" alt="Samwel_Waweru" height="30" width="40" /></a>
 
   </p>
 

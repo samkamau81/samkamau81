@@ -10,7 +10,7 @@
   class Dev:
       name: str = "Samwel Waweru"
       location: str = "Nairobi, Kenya"
-      focus: tuple = ("Edge AI", "Computer Vision", "NLP", "Systems ML", "Customers")
+      focus: tuple = ("Edge AI", "Computer Vision", "NLP", "Systems ML", "Customer Management")
       toolbox: tuple = ("Python", "C/C++", "Tensorflow", "PyTorch/YOLO",
                         "Raspberry Pi", "Arduino", "AWS")
   
@@ -23,7 +23,7 @@
   ```python
   me = Dev()
   
-  print(f"👋 Hi, I'm {me.name} — I build intelligent customer systems.")
+  print(f"👋 Hi, I'm {me.name} — I build intelligent business systems.")
   print(f"🔭 Focus       : {', '.join(me.focus)}")
   print(f"🧰 Toolbox     : {', '.join(me.toolbox)}")
   print(f"✨ {me.motto}")

@@ -23,10 +23,10 @@
   ```python
   me = Dev()
   
-  print(f"👋 Hi, I'm {me.name} — I build intelligent business systems.")
-  print(f"🔭 Focus       : {', '.join(me.focus)}")
-  print(f"🧰 Toolbox     : {', '.join(me.toolbox)}")
-  print(f"✨ {me.motto}")
+  print(f"Hi, I'm {me.name} — I build intelligent business systems.")
+  print(f"Focus       : {', '.join(me.focus)}")
+  print(f"Toolbox     : {', '.join(me.toolbox)}")
+  print(f"{me.motto}")
   ```  
 
 

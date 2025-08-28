@@ -10,9 +10,10 @@
   class Dev:
       name: str = "Samwel Waweru"
       location: str = "Nairobi, Kenya"
-      focus: tuple = ("Edge AI", "Computer Vision", "NLP", "Systems ML", "Customer Management")
-      toolbox: tuple = ("Python", "C/C++", "Tensorflow", "PyTorch/YOLO",
-                        "Raspberry Pi", "Arduino", "AWS")
+      focus: tuple = ("Cloud Technology", "Ruby on Rails",
+                      "AI/ML Integration and Research", "Software Development", "Business Development")
+      toolbox: tuple = ("Python", "C/C++", "Ruby on Rails", "TypeScript",
+                        "Raspian", "Linux", "AWS")
   
       motto: str = "Always learning. Always building."
 ```
